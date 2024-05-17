@@ -1,4 +1,4 @@
-分别用ResNet50（1）和YOLOv8（2）实现了字符编码识别任务，题目源自阿里天池竞赛https://tianchi.aliyun.com/competition/entrance/531795。
+分别用ResNet50（1）和YOLOv8（2）实现了字符编码识别任务，题目源自阿里天池竞赛https://tianchi.aliyun.com/competition/entrance/531795
 即使运用了较多数据增强技术和参数调优技巧，前者的准确率仍然较低，仅为60%左右
 而yolov8的准确率可以接近90%。一定程度上说明了yolo的强大性能。
 
