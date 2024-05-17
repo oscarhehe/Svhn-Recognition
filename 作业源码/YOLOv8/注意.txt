@@ -1,6 +1,0 @@
-1. 训练过程中将出现runs目录，此处没有显示；
-2. main文件将执行YOLO的运行过程，其中的predict代码被注释掉
-3. predict文件执行测试集的预测，过程中将生成：
-	a. runs/detect/predict/labels中的txt文件，即为测试集图片的标签，main.py中的extract_targets_from_txt函数将标签提取出来并
-  生成csv文件
-	b.‘file.csv'文件，此文件即为最终提交文件

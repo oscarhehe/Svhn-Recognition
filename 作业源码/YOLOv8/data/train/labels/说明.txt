@@ -1,1 +1,0 @@
-此文件夹用来存放所有txt格式的标签，与images中的图片一一对应，只需要运行data_process文件即可（注意目录与JSON文件的指定--train.json）
