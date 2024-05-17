@@ -6,7 +6,8 @@
 
 （2）的运行需要安装ultralytics，具体可以在对应环境内终端输入`<pip install ultralytics>`
 
-具体可以参考https://docs.ultralytics.com/zh/quickstart/#install-ultralytics获得更多说明
+具体可以参考https://docs.ultralytics.com/zh/quickstart/#install-ultralytics
+获得更多说明
 
 
 
