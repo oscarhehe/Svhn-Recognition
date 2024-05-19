@@ -16,3 +16,10 @@ YOLO在验证集第二个小批量上（8张照片）的预测结果如下：
 
 ![预测结果](ResNet与YOLO/YOLOv8/结果文件/val_batch2_pred.jpg)
 
+
+
+其中一次的结果曲线：
+
+
+![result](ResNet与YOLO/YOLOv8/results.png)
+
